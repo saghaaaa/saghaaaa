@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there, my name is Sagha 👋
+## I'm currently working on an open-source textbook project using Pretext
+#### Harold Washington College - Bioengineering - Spring 2026
+
 
 <!--
 **saghaaaa/saghaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
