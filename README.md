@@ -1,5 +1,4 @@
 ## Hi there, my name is Sagha 👋
-## I'm currently working on an open-source textbook project using Pretext
 #### Harold Washington College - Bioengineering - Spring 2026
 
 
